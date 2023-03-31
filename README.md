@@ -51,7 +51,9 @@ Types of bivariate analyis
 2)Numerical & Categorical(Bar plot,Box plot,Dist plot)
 
 
+
 Developed by : JOEL P
+
 Registration Number : 212222230057
 
 Code
